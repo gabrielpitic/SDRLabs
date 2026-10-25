@@ -6,7 +6,7 @@ from recombee_api_client.exceptions import APIException
 # TODO 1: Configurare credentiale Recombee
 # Introduceti datele din contul vostru (Settings -> API Logins in Recombee Admin UI)
 DB_NAME = 'mymusicstore-dev'
-PRIVATE_TOKEN = 'WyZKJStK9saUP5s8MUBDjxGoioCWBViJ6uXcivHRdYGUFsX32oWrutE8dCF761oh'
+PRIVATE_TOKEN = ''
 REGION = Region.EU_WEST  # Schimbati cu 'us-west' sau regiunea potrivita daca este cazul
 
 # Initializarea clientului Recombee
